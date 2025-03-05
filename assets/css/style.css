@@ -989,6 +989,9 @@ textarea.input-field {
   letter-spacing: 9px;
   margin-top: 60px;
   text-transform: uppercase;
+  background-image: url("../images/digitalmarketing.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 767px) {
